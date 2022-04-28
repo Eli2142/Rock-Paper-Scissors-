@@ -1,0 +1,63 @@
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+	font-family: 'Luckiest Guy', cursive;
+}
+h2{
+	text-align: center;
+}
+img{
+	height: 100px;
+	text-align: cetner;
+}
+h3{
+	text-align: center;
+}
+button{
+	margin-left: 40px;
+}
+.Buttons{
+	display: flex;
+	justify-content: center;
+}
+.Rhinoman{
+	display: block;
+}
+.Goku{
+	margin-left: 100px;
+}
+.imgBox{
+	display: flex;
+	justify-content: center;
+}
+.box{
+	display: flex;
+	justify-content: center;
+}
+#rock{
+	width: 100px;
+	height: 70px;
+	text-align: center;
+}
+#paper{
+	width: 100px;
+	height: 70px;
+	margin-left: 100px;
+	text-align: center;
+}
+.container{
+	display: flex;
+	justify-content: center;
+}
+#scissors{
+	width: 100px;
+	height: 70px;
+	margin-left: 100px;
+	text-align: center;
+}
+#images{
+	display: flex;
+	justify-content: center;
+}
